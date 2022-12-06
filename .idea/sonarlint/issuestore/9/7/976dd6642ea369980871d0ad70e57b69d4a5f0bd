@@ -1,0 +1,12 @@
+
+o
+java:S1104"TMake fullname a static final constant or non-public and provide accessors if needed.(ŒÏœÅüÿÿÿÿ
+i
+java:S1104"SMake isAdmin a static final constant or non-public and provide accessors if needed.(›ÑÚ¹
+F
+java:S2160
+"+Override the "equals" method in this class.(ƒË”Ûûÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

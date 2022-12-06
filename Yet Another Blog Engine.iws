@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee522e52-1b54-482f-9221-735a7ccb0900" name="Changes" comment="fixed tagged stuff">
+      <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/jobs/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/jobs/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Application/listTagged.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/listTagged.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/tags/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/messages" beforeDir="false" afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/h2/play.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/BasicTest.class.passed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/result.passed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Application.test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/Application.test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_listTagged.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_listTagged.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_module_crud__app_views_CRUD_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_module_crud__app_views_CRUD_layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Comments" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Comments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Posts" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Posts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Tags" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Tags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Users" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Users" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/jobs.Bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/jobs.Bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Tag" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Tag" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IVWMqm5G2WEBgM02ks18TFoIAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sdmotto/yabe/Yet Another Blog Engine.ipr"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee522e52-1b54-482f-9221-735a7ccb0900" name="Changes" comment="" />
+      <created>1670267186707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670267186707</updated>
+      <workItem from="1670267188323" duration="5318000" />
+      <workItem from="1670272742576" duration="5069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed tagged stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed tagged stuff" />
+  </component>
+</project>
