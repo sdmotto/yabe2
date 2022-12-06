@@ -2,5 +2,7 @@
 
 require:
     - play
+    - play -> secure
     - play -> docviewer
     - play -> crud
+    #- play -> cobertura 2.5

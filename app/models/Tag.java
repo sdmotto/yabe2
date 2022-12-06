@@ -8,12 +8,8 @@ import play.data.validation.*;
 
 @Entity
 public class Tag extends Model implements Comparable<Tag> {
-
-    @Required
     public String name;
 
-    @ManyToOne
-    @Required
     public Post post;
 
     private Tag(String name) {

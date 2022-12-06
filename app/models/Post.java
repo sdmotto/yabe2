@@ -27,7 +27,7 @@ public class Post extends Model {
     @OneToMany(mappedBy="post", cascade=CascadeType.ALL)
     public List<Comment> comments;
 
-    @ManyToMany(mappedBy="post", cascade=CascadeType.ALL)
+    @ManyToMany(cascade=CascadeType.PERSIST)
     public Set<Tag> tags;
 
     public Post(User author, String title, String content) {
@@ -59,10 +59,17 @@ public class Post extends Model {
         return this;
     }
 
+    public static List<Post> findTaggedWith(String tag) {
+        return Post.find(
+                "select distinct p from Post p join p.tags as t where t.name = ?1", tag
+        ).fetch();
+    }
+
     public static List<Post> findTaggedWith(String... tags) {
         return Post.find(
                 "select distinct p from Post p join p.tags as t where t.name in (:tags) group by p.id, p.author, p.title, p.content,p.postedAt having count(t.id) = :size"
         ).bind("tags", tags).bind("size", tags.length).fetch();
     }
+
  
 }
